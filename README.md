@@ -34,13 +34,22 @@ do the following:
 
 ## Results
 
-| Minimum Temperature by Month                          | Atmospheric Pressure by Month                         |
-| ----------------------------------------------------- | ----------------------------------------------------- |
-| <img src="image-1.png" alt="Your Image" width="300"/> | <img src="image-2.png" alt="Your Image" width="300"/> |
+Minimum Temperature by Month 
 
-| Minimum Temperature Over Time                         | Earth Day Calculation                                 |
-| ----------------------------------------------------- | ----------------------------------------------------- |
-| <img src="image-3.png" alt="Your Image" width="300"/> | <img src="image-4.png" alt="Your Image" width="300"/> |
+![image-1](https://github.com/ShubhangiBidkar/web-scraping-and-analysis-/assets/38162670/d7c28bba-8959-468a-b92c-5c562b78baca) 
+
+Atmospheric Pressure by Month 
+
+![image](https://github.com/ShubhangiBidkar/web-scraping-and-analysis-/assets/38162670/f5683673-9fa2-4d27-80e6-bc1b5f600394)
+
+Minimum Temperature Over Time   
+
+![image-3](https://github.com/ShubhangiBidkar/web-scraping-and-analysis-/assets/38162670/f70fdd38-7303-43b1-b2ea-c3776dfe8dd7)
+
+Earth Day Calculation 
+ 
+![image-4](https://github.com/ShubhangiBidkar/web-scraping-and-analysis-/assets/38162670/c23173b6-74b1-4fb8-86b7-cddf6cbf0755)
+
 
 ### Tools
 
